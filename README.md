@@ -19,7 +19,7 @@ correspond to the sequence identity between TAS2Rs.
   - `02-analysis.ipynb`: Analysis notebook to score all models
   - `pocket.pdb`: Set of points used to generate the binding pocket of the receptor used for scoring
   - `msa.xlsx`: Simplified version of the `TAS2R-msa-annotated.xlsx` file
-  - `all_scores_models_final.pkl`: The complete table of scores for each receptor and protocol (without missfolded models)
+  - `all_scores_models_final.pkl`: The complete table of scores for each receptor, protocol and template, excluding missfolded models. Can be read directly in pandas with `pd.read_pickle("all_scores_models_final.pkl")`
 
 ## Requirements
 ---
