@@ -2,7 +2,8 @@
 
 Code and data for the TAS2R paper:
 ```
-Placeholder for the article's reference...
+Functional Molecular Switches of Mammalian G Protein-Coupled Bitter-Taste Receptors
+Jérémie Topin †*, Cédric Bouysset †, Jody Pacalon, Yiseul Kim, MeeRa Rhyu, Sébastien Fiorucci *, Jérôme Golebiowski
 ```
 
 ## Description
